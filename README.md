@@ -1,1 +1,1 @@
- git@github.com:JulyaMka/ono-tebe-nado-fd.git
+https://github.com/JulyaMka/ono-tebe-nado-fd
